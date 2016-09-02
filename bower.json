@@ -1,0 +1,20 @@
+{
+  "name": "va-load",
+  "version": "0.0.1",
+  "main": "va-load-behavior.html",
+  "license": "MIT",
+  "authors": [
+    "The via-at Authors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/via-at/va-load.git"
+  },
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.6.1"
+  },
+  "devDependencies": {
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}
